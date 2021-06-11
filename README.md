@@ -1,6 +1,6 @@
 # Password_strength_classifier
 ### App link
-[https://passwordstrengthclassifier.herokuapp.com/](url)
+https://passwordstrengthclassifier.herokuapp.com/
 
 #### Screenshots
 <img width="664" alt="Capture3" src="https://user-images.githubusercontent.com/43163370/121728577-1ad24a00-cb0b-11eb-9716-2e0a563b74d3.PNG">
