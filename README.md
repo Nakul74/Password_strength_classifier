@@ -1,4 +1,5 @@
 # Password_strength_classifier
+#### Classifies whether given password is strong, weak or medium
 ### App link
 https://passwordstrengthclassifier.herokuapp.com/
 
